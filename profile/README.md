@@ -1,6 +1,9 @@
 ## Saiponath Games
 
-Saiponath Games is a remote organization.
+Saiponath Games is a virtual game development studio.
+Our main motive is to develop Real Time Strategy games which can be played in a low end PC.
+
+We use Open Source software such as Godot Game Engine, Krita, Inkscape, GIMP, blender, etc. to develop our games!
 <!--
 
 **Here are some ideas to get you started:**
